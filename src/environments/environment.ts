@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey:
-    authDomain:
-    databaseURL:
-    projectId:
-    storageBucket:
-    messagingSenderId:
+    apiKey: '',
+    authDomain: 'loanapp-0001.firebaseapp.com',
+    databaseURL: 'https://loanapp-0001.firebaseio.com',
+    projectId: 'loanapp-0001',
+    storageBucket: 'loanapp-0001.appspot.com',
+    messagingSenderId: ''
   }
 };
